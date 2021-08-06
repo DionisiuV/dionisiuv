@@ -14,15 +14,6 @@ I’ve built a few projects by myself and I’m looking to grow and learn day by
 
 
 
----
-
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionisiuv&hide=css,ejs&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DionisiuV)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
