@@ -21,7 +21,8 @@ I’ve built a few projects by myself and I’m looking to grow and learn day by
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionisiuv&hide=css,ejs&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionisiuv&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valentin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
