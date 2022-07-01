@@ -2,7 +2,7 @@
 
 ---
 
-As a computer science student with experience working across the full-stack of software development i’ve built a few projects by myself and i’m looking to grow and learn day by day.
+Software developer with experience working across the full-stack of software development. 
 
 ---
 
